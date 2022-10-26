@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dvip</h1>
-<h3 align="center">I am a full stack developer and I am also passionate about machine learning and competetive programming</h3>
+<h3 align="center">I'll be full stack developer by December and I am also passionate about machine learning and competetive programming</h3>
 
 
 
