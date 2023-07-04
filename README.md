@@ -3,10 +3,10 @@ I'm currently working on Keeper, a clone of Google Keep. This project aims to pr
 ### Project Link
 You can find the project repository on GitHub: [https://github.com/dvip1/keeper](https://github.com/dvip1/keeper)
 
-## Collaboration Opportunity
+### Collaboration Opportunity
 I'm looking for collaboration on this full-stack MERN (MongoDB, Express.js, React.js, Node.js) project. If you're interested in contributing or collaborating, please feel free to reach out to me.
 
-## Help Needed
+### Help Needed
 Specifically, I'm seeking help with React.js. If you have experience or expertise in React.js, I would greatly appreciate your assistance. Together, we can build a better Keeper application!
 
 ### Ask me
