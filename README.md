@@ -1,4 +1,4 @@
-# About me 
+# 🌟 About me 
 I'm currently working on Keeper, a clone of Google Keep. This project aims to provide a simple and intuitive note-taking application similar to Google Keep.
 ### Project Link
 You can find the project repository on GitHub: [https://github.com/dvip1/keeper](https://github.com/dvip1/keeper)
