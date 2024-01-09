@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working in <a href="https://asynk.in/" target="blank">Asynk</a> as a Backend Intern
 - 🌱 I’m learning to work on open source projects
-- ⚡ Fun fact: I love to change my linux distro every week 
+- ⚡ Fun fact: I love to change my linux distro every now and then
 - 👾 a **student** working his way around things
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
