@@ -35,7 +35,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Automate Your full stack app With Docker & Scripts](https://medium.com/@dvippatel98/automate-your-full-stack-app-with-docker-scripts-fed845fc76a8)
 - [How to Collaborate on GitHub: A Beginner’s Guide](https://medium.com/@dvippatel98/how-to-collaborate-on-github-a-beginners-guide-7456fdd69968)
-- [Routing for dummies ](https://medium.com/@dvippatel98/routing-for-dummies-api-7d3caa771823)
+- [Explaining WebRTC ins simplest way ](https://www.linkedin.com/posts/dvip-patel-23320a230_webrtc-websocket-nodejs-activity-7180820126781300736-xGwL?utm_source=share&utm_medium=member_desktop)
 
 <!-- BLOG-POST-LIST:END -->
 
