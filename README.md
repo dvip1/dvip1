@@ -8,8 +8,8 @@
   
 <h3> About me </h3>
   
-- 🔭 I’m currently working in <a href="https://asynk.in/" target="blank">Asynk</a> as a Backend Intern
-- 🌱 I’m learning to work on open source projects
+- 🔭 I’m currently working on <a href="https://github.com/dvip1/qualityReads" target="blank">QualityReads</a> 
+- 🌱 I’m learning to work on NextJS
 - ⚡ Fun fact: I love to change my linux distro every now and then
 - 👾 a **student** working his way around things
 
