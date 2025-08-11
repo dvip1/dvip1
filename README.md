@@ -45,10 +45,4 @@
 - [Explaining WebRTC in simplest way possible!](https://www.linkedin.com/posts/dvip-patel-23320a230_webrtc-websocket-nodejs-activity-7180820126781300736-xGwL?utm_source=share&utm_medium=member_desktop)
 <br>
 
-<p align="center">
-  <b>Wish to support my journey?</b>
-  <br>
-  <a href="https://www.buymeacoffee.com/dvippatel9o">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dvippatel9o&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
-  </a>
-</p>
+
